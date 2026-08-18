@@ -5,4 +5,4 @@ This Python program implements a license plate recognition and QR code–based a
 # qrcode.blade.php
 This web interface displays real-time QR code detection results for a vehicle access control system. It periodically fetches the latest QR code data from the backend, showing the detected license plate, capture time, and generated QR code image. The interface automatically updates every second and switches between “waiting” and “vehicle detected” views, making it suitable for live monitoring at entry or exit gates. This website use framework laravel and integrated with firebase as database
 # note
-this is for final project of my final year thesis
+this is for final project of my final year thesis, feel free to use it
